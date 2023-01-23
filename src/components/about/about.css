@@ -1,0 +1,43 @@
+.home {
+    display:flex;
+    flex-direction: column;
+}
+.compo {
+    border-color: black;
+    margin-top:0.5%;
+    margin-bottom:2%;
+}
+
+.abt {
+    margin-left:10%;
+}
+
+.heading {
+    margin-left:50%;
+    margin-bottom:-5%;
+}
+
+.one {
+    margin-top: 2%;
+}
+
+@media all and (max-width: 600px) {
+    .compo {
+        margin-top:0%;
+        padding-bottom:5%;
+    }
+
+    .abt {
+        margin-left:5%;
+    }
+
+    .heading {
+        margin-left:30%;
+        margin-bottom:-40%;
+    }
+
+    .one {
+        padding-top:30%;
+        padding-right:10%;
+    }
+}
