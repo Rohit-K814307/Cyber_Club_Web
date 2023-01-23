@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Cyber_Club_Web/static/css/main.dba77304.css",
-    "main.js": "/Cyber_Club_Web/static/js/main.e6b443ae.js",
+    "main.js": "/Cyber_Club_Web/static/js/main.223efee9.js",
     "index.html": "/Cyber_Club_Web/index.html",
     "main.dba77304.css.map": "/Cyber_Club_Web/static/css/main.dba77304.css.map",
-    "main.e6b443ae.js.map": "/Cyber_Club_Web/static/js/main.e6b443ae.js.map"
+    "main.223efee9.js.map": "/Cyber_Club_Web/static/js/main.223efee9.js.map"
   },
   "entrypoints": [
     "static/css/main.dba77304.css",
-    "static/js/main.e6b443ae.js"
+    "static/js/main.223efee9.js"
   ]
 }
