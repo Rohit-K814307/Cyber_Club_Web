@@ -10,7 +10,7 @@ function App() {
         
         <Routes className="stuff">
 
-          <Route path="/" element={<About/>}>
+          <Route exact path="/Cyber_Club_Web" element={<About/>}>
           </Route>
           
           <Route path = "/ml" element = {<About/>}>
