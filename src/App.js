@@ -10,29 +10,29 @@ function App() {
         
         <Routes className="stuff">
 
-          <Route exact path="/Cyber_Club_Web" element={<About/>}>
+          <Route exact path="/" element={<About/>}>
           </Route>
           
-          <Route path = "/Cyber_Club_Web/ml" element = {<About/>}>
+          <Route path = "/ml" element = {<About/>}>
             <Route path="*" element={<h1 className="container">Page Doesn't Exist!</h1>} />
           </Route>
-          <Route path = "/Cyber_Club_Web/ml/projects" element = {<Projects />} />
-          <Route path = "/Cyber_Club_Web/ml/team" element = {<Team />} />
-          <Route path = "/Cyber_Club_Web/ml/contact" element = {<Contact />} />
+          <Route path = "/ml/projects" element = {<Projects />} />
+          <Route path = "/ml/team" element = {<Team />} />
+          <Route path = "/ml/contact" element = {<Contact />} />
 
-          <Route path = "/Cyber_Club_Web/aws" element={<About/>}>
+          <Route path = "/aws" element={<About/>}>
             <Route path="*" element={<h1 className="container">Page Doesn't Exist!</h1>} />
           </Route>
-          <Route path = "/Cyber_Club_Web/aws/projects" element = {<Projects />} />
-          <Route path = "/Cyber_Club_Web/aws/team" element = {<Team />} />
-          <Route path = "/Cyber_Club_Web/aws/contact" element = {<Contact />} />
+          <Route path = "/aws/projects" element = {<Projects />} />
+          <Route path = "/aws/team" element = {<Team />} />
+          <Route path = "/aws/contact" element = {<Contact />} />
 
-          <Route path = "/Cyber_Club_Web/cybersec" element = {<About/>}>
+          <Route path = "/cybersec" element = {<About/>}>
             <Route path="*" element={<h1 className="container">Page Doesn't Exist!</h1>} />
           </Route>
-          <Route path = "/Cyber_Club_Web/cybersec/projects" element = {<Projects />} />
-          <Route path = "/Cyber_Club_Web/cybersec/team" element = {<Team />} />
-          <Route path = "/Cyber_Club_Web/cybersec/contact" element = {<Contact />} />
+          <Route path = "/cybersec/projects" element = {<Projects />} />
+          <Route path = "/cybersec/team" element = {<Team />} />
+          <Route path = "/cybersec/contact" element = {<Contact />} />
 
           <Route path="*" element={<h1 className="container">Page Doesn't Exist!</h1>} />
         </Routes>

@@ -26,22 +26,22 @@ export class Navbar extends React.Component {
               <a href="#" onClick={this.closeNav}>
                 X
               </a>
-              <a href= {"/Cyber_Club_Web/" + window.location.pathname.split("/")[2]}>About</a>
-              {window.location.pathname !=="/Cyber_Club_Web" &&
+              <a href= {window.location.origin + "/" + window.location.pathname.split("/")[1]}>About</a>
+              {window.location.pathname !=="/" &&
                 <div> 
-                  <a href={"/Cyber_Club_Web/" + ((String(window.location.pathname.split("/")[2])).replace('/','')) + "/projects"}>Projects</a>
-                  <a href={"/Cyber_Club_Web/" + ((String(window.location.pathname.split("/")[2])).replace('/','')) + "/team"}>Team</a>
-                  <a href={"/Cyber_Club_Web/" + ((String(window.location.pathname.split("/")[2])).replace('/','')) + "/contact"}>Contact</a>
+                  <a href={"/" + ((String(window.location.pathname.split("/")[1])).replace('/','')) + "/projects"}>Projects</a>
+                  <a href={"/" + ((String(window.location.pathname.split("/")[1])).replace('/','')) + "/team"}>Team</a>
+                  <a href={"/" + ((String(window.location.pathname.split("/")[1])).replace('/','')) + "/contact"}>Contact</a>
                 </div>
               }
             </div>
           </div>
           <span className="spn">
             <div className="navbar">
-              <a href="/Cyber_Club_Web">Home</a>
-              <a href="/Cyber_Club_Web/ml">ML Pathway</a>
-              <a href="/Cyber_Club_Web/aws">AWS Pathway</a>
-              <a href="/Cyber_Club_Web/cybersec">Cybersecurity Pathway</a>
+              <a href="/">Home</a>
+              <a href="/ml">ML Pathway</a>
+              <a href="/aws">AWS Pathway</a>
+              <a href="/cybersec">Cybersecurity Pathway</a>
               <span className="open-button" onClick={this.openNav}>
                 &#9776;
               </span>
