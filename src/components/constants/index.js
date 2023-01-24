@@ -1,15 +1,15 @@
 export const team_home = [
     {
+        id: "leader-2",
+        img:"https://drive.google.com/uc?export=view&id=1bahGmiG9TJrQvqpCT9fXVY1DxORAKtY8",
+        title: "William Tuck, Co-president Cyber Club",
+        content: "Will has been involved in cybersecurity efforts at Freedom for four years. He loves to code and compete in cybersecurity competitions. He plans to study computer science in college but is also considering cybersecurity.",
+    },
+    {
         id: "leader-1",
         img:"https://www.wikihow.com/images/6/61/Draw-a-Cartoon-Man-Step-15.jpg",
         title: "Arjun Rao, Co-president Cyber Club",
         content: "Hi I am Arjun",
-    },
-    {
-        id: "leader-2",
-        img:"https://www.wikihow.com/images/6/61/Draw-a-Cartoon-Man-Step-15.jpg",
-        title: "William Tuck, Co-president Cyber Club",
-        content: "Hi, I am Will",
     }
 ]
 
@@ -38,16 +38,16 @@ export const team_ml = [
 export const team_aws = [
     {
         id:"leader-1",
-        img:"https://www.wikihow.com/images/6/61/Draw-a-Cartoon-Man-Step-15.jpg",
-        title: "Siddharth Ravi, AWS Officer",
-        content: "Hi",
+        img:"https://drive.google.com/uc?export=view&id=1Lw6PQQ2lnzG-Hs-NNgioY6x7jDdoYPvo",
+        title: "Sidd Ravi, Co-president of AWS club",
+        content: "Sidd is a senior in high school who has committed to Virginia Tech where he will be pursuing a Bachelor’s in Computer Science. His interests include programming and cloud technologies. He is also enjoys participating in hackathon/cybersecurity competitions.",
     },
     {
         id:"leader-2",
         img:"https://www.wikihow.com/images/6/61/Draw-a-Cartoon-Man-Step-15.jpg",
         title: "Afdhal Nizamudheen, AWS Officer",
         content: "Hi",
-    }
+    },
 ]
 
 export const team_cybersec = [
@@ -144,7 +144,7 @@ export const contact_home = [
     id: "contact-1",
     img:"https://www.pngkey.com/png/full/9-96916_download-email-icon-transparent-background.png",
     title: "President Officer Emails",
-    content: "emails here",
+    content: "William Tuck: 832631@lcps.org",
     }
 ]
 
@@ -172,6 +172,6 @@ export const contact_aws = [
         id: "contact-aws",
         img:"https://www.pngkey.com/png/full/9-96916_download-email-icon-transparent-background.png",
         title: "AWS Officer Emails",
-        content: "contact here",
+        content: "Sidd Ravi: 840953@lcps.org",
     }
 ]

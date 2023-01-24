@@ -25,7 +25,7 @@ export function Team() {
     } else if (window.location.pathname.includes('aws')) {
         console.log("aws");
         return (
-            <div className="wrapper container">
+            <div className="wrapper container aw">
                 {team_aws.map((obj) => <Card img={obj.img} title={obj.title} content={obj.content} />)}
             </div>
         );
