@@ -38,9 +38,9 @@ export class Navbar extends React.Component {
           <span className="spn">
             <div className="navbar">
               <a href="/">Home</a>
-              <a href="/ml">ML Pathway</a>
-              <a href="/aws">AWS Pathway</a>
-              <a href="/cybersec">Cybersecurity Pathway</a>
+              <a href="/ml">| ML</a>
+              <a href="/aws">| AWS</a>
+              <a href="/cybersec">| Cybersecurity</a>
               <span className="open-button" onClick={this.openNav}>
                 &#9776;
               </span>

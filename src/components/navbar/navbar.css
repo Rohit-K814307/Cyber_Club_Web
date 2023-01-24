@@ -7,6 +7,8 @@
   color: #fff;
   padding: 1rem;
   z-index: 3; /* Make the navbar appear above the sidebar */
+  display:flex;
+  flex-direction:row;
 }
 
 .navbar a {
