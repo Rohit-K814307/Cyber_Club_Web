@@ -17,7 +17,7 @@ export const team_ml = [
     {
         id: "leader-1",
         img:"https://www.wikihow.com/images/6/61/Draw-a-Cartoon-Man-Step-15.jpg",
-        title: "Rohit Kulkarni, ML Lead",
+        title: "Rohit Kulkarni, ML President",
         content: "Hi, I am Rohit",
     },
     {
