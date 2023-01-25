@@ -10,7 +10,7 @@ export const team_home = [
         img:"https://www.wikihow.com/images/6/61/Draw-a-Cartoon-Man-Step-15.jpg",
         title: "Arjun Rao, Co-president Cyber Club",
         content: "Hi I am Arjun",
-    }
+    },
 ]
 
 export const team_ml = [
@@ -67,42 +67,36 @@ export const team_cybersec = [
 export const projects_home = [
     {
         id: "project-1",
-        img: "https://img.freepik.com/free-vector/thank-you-word-doodle-typography-lettering_53876-116957.jpg?w=2000",
-        title: "Check each individual club project page!",
-        content: "Thanks for visiting the club page",
+        img: "https://www.spokaneschools.org/cms/lib/WA50000187/Centricity/Domain/2303/CyberPatriot_860-700x469.jpg",
+        title: "Air Force Association (AFA) Cyberpatriot Competition",
+        content: "Contact a club officer to join the Cyberpatriot competition",
     }
 ]
 
 export const projects_ml = [
     {
         id: "project-1",
-        img: "https://img.freepik.com/free-vector/thank-you-word-doodle-typography-lettering_53876-116957.jpg?w=2000",
+        img: "https://prachisablani.github.io/images/House2.jpg",
         title: "Housing Prices Prediction",
         content: "Club members working on analyzing housing data and using regression models to predict housing prices in the future.",
-    },
-    {
-        id: "project-2",
-        img: "https://img.freepik.com/free-vector/thank-you-word-doodle-typography-lettering_53876-116957.jpg?w=2000",
-        title: "Housing Prices Prediction2",
-        content: "Club2 members working on analyzing housing data and using regression models to predict housing prices in the future.",
     }
 ]
 
 export const projects_cybersec = [
     {
         id: "project-1",
-        img: "https://img.freepik.com/free-vector/thank-you-word-doodle-typography-lettering_53876-116957.jpg?w=2000",
-        title: "thing",
-        content: "thing",
+        img: "https://img.freepik.com/premium-vector/operation-project-icon-comic-style-gear-process-vector-cartoon-illustration-white-isolated-background-technology-produce-business-concept-splash-effect_157943-5822.jpg?w=2000",
+        title: "Mini-Capture the Flag (CTF)",
+        content: "about the CTF",
     }
 ]
 
 export const projects_aws = [
     {
         id: "project-1",
-        img: "https://img.freepik.com/free-vector/thank-you-word-doodle-typography-lettering_53876-116957.jpg?w=2000",
-        title: "duh",
-        content: "duh",
+        img: "https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png",
+        title: "AWS Certification",
+        content: "Working towards and AWS certification towards the end of the year.",
     }
 ]
 
@@ -114,25 +108,25 @@ export const projects_aws = [
 export const about_home = {
     id: "about-home",
     title: "About Cyber Club!",
-    content: "This is the umbrella club for everything!",
+    content: "Cyber Club is a club encompassing three separate pathways/clubs: Machine learning (ML), Amazon Web Services (AWS), and Cybersecurity. The goal of the Cyber Club is to enable all students to become more technologically literate, whether it is coding or cybersecurity defense. The Cyber Club is also home to the Freedom Cyberpatriot teams, who compete nationally in the Air Force Association (AFA) Cyberpatriot competition.",
 }
 
 export const about_ml = {
     id: "about-ml",
-    title: "About ML Club!",
-    content: "ML club is a cool club",
+    title: "About Machine Learning (ML) Club!",
+    content: "Machine learning (ML) club has a focus on educating Freedom students about the applications of Artificial Intelligence, Machine Learning, and Deep Learning. We aim to bring the vast concepts of ML to high school students, from Support Vector Machines (SVMs) to Neural Networks.",
 }
 
 export const about_cybersec = {
     id: "about-cybersec",
     title: "About Cybersecurity Club!",
-    content: "cybersecurity club is a cool club",
+    content: "Cybersecurity club is aimed at introducing the fundamental concepts of system defense to the Freedom community",
 }
 
 export const about_aws = {
     id: "about-aws",
     title: "About AWS Club!",
-    content: "AWS club is a cool club",
+    content: "Amazon Web Services club has a focus on teaching the Freedom community to explore avenues in cloud computing.",
 }
 
 
