@@ -16,9 +16,9 @@ export const team_home = [
 export const team_ml = [
     {
         id: "leader-1",
-        img:"https://www.wikihow.com/images/6/61/Draw-a-Cartoon-Man-Step-15.jpg",
+        img:"https://drive.google.com/uc?export=view&id=19wfPpRgN5Vocm7iRKDqemhbZ20YhBY_g",
         title: "Rohit Kulkarni, ML President",
-        content: "Hi, I am Rohit",
+        content: "Rohit is a high school student at Freedom High School with an aptitude for STEM. As an aspiring computer scientist interested in the intersection of machine learning and biology, he is always ready to learn and challenge himself in a growingly technology-dependent world. Along with school, he likes educating himself about the newest advancements in technology, playing tennis, and riffing on the guitar.",
     },
     {
         id: "leader-2",
@@ -148,7 +148,7 @@ export const contact_ml = [
         id: "contact-1",
         img:"https://www.pngkey.com/png/full/9-96916_download-email-icon-transparent-background.png",
         title: "ML Officer Emails",
-        content: "contact here",
+        content: "Rohit Kulkarni: 922504@lcps.org",
     }
 ]
 
