@@ -169,7 +169,7 @@ export const contact_cybersec = [
         id: "contact-1",
         img: "https://www.pngkey.com/png/full/9-96916_download-email-icon-transparent-background.png",
         title: "Cybersecurity Officer Emails",
-        content: "contact here",
+        content: "No contact yet",
     }
 ]
 
