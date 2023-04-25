@@ -114,7 +114,7 @@ export const about_home = {
 export const about_ml = {
     id: "about-ml",
     title: "About Machine Learning (ML) Club!",
-    content: <p>Machine learning (ML) club has a focus on educating Freedom students about the applications of Artificial Intelligence, Machine Learning, and Deep Learning. We aim to bring the vast concepts of ML to high school students, from Support Vector Machines (SVMs) to Neural Networks. <a href="https://linktr.ee/freedomml" style="color:#36AE7C;" target="_blank">Access the linktree Here!</a>. Access the <a href="https://drive.google.com/drive/folders/1RTUzkMTqHChpfxQ0peb4IDwYJM0fP1AE?usp=sharing" style="color:#36AE7C;" target="_blank">Slideshows and Presentations For the Club</a> Access the <a href="https://www.kaggle.com/fhsmlclub" style="color:#36AE7C;" target="_blank">Kaggle code notebooks</a>. The remind join link is <a href=" https://www.remind.com/join/fhsaiml" style="color:#36AE7C;" target="_blank">here</a></p>,
+    content: <p>Machine learning (ML) club has a focus on educating Freedom students about the applications of Artificial Intelligence, Machine Learning, and Deep Learning. We aim to bring the vast concepts of ML to high school students, from Support Vector Machines (SVMs) to Neural Networks. <a href="https://linktr.ee/freedomml" target="_blank">Access the linktree Here!</a>. Access the <a href="https://drive.google.com/drive/folders/1RTUzkMTqHChpfxQ0peb4IDwYJM0fP1AE?usp=sharing" target="_blank">Slideshows and Presentations For the Club</a> Access the <a href="https://www.kaggle.com/fhsmlclub" target="_blank">Kaggle code notebooks</a>. The remind join link is <a href=" https://www.remind.com/join/fhsaiml" target="_blank">here</a></p>,
 }
 
 export const about_cybersec = {
