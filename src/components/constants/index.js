@@ -22,15 +22,15 @@ export const team_ml = [
     },
     {
         id: "leader-2",
-        img:"https://www.wikihow.com/images/6/61/Draw-a-Cartoon-Man-Step-15.jpg",
+        img:"",
         title: "Shourya Agarwal, ML officer - Content",
-        content: "Hi, I am Shourya",
+        content: "Shourya is a sophomore at Freedom and AET. He has worked on various computer vision projects through robotics and the Edge Impulse platform. He is alsoexperienced with arduino and electronics.",
     },
     {
         id: "leader-3",
-        img:"https://www.wikihow.com/images/6/61/Draw-a-Cartoon-Man-Step-15.jpg",
+        img:"",
         title: "Shlesh Sakpal, ML officer - Outreach",
-        content: "Hi, I am Shlesh",
+        content: "Shlesh is a sophomore at Freedom. He has worked on various research at the intersection of artificial intelligence and black holes. He hopes to bring a successful learning experience to all students in ML Club",
     },
     
 ]
@@ -145,10 +145,22 @@ export const contact_home = [
 
 export const contact_ml = [
     {
+        id: "contact-0",
+        img:"https://www.pngkey.com/png/full/9-96916_download-email-icon-transparent-background.png",
+        title: "Contact ML Club",
+        content: "Club Email: freedom.high.ml@gmail.com",
+    },
+    {
         id: "contact-1",
         img:"https://www.pngkey.com/png/full/9-96916_download-email-icon-transparent-background.png",
-        title: "ML Officer Emails",
+        title: "Contact Rohit Kulkarni - President",
         content: "Rohit Kulkarni: 922504@lcps.org",
+    },
+    {
+        id: "contact-2",
+        img:"https://www.pngkey.com/png/full/9-96916_download-email-icon-transparent-background.png",
+        title: "Contact Shourya Agarwal - Content Officer",
+        content: "Shourya Agarwal: 875644@lcps.org",
     }
 ]
 
