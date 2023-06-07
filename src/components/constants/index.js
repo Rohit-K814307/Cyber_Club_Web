@@ -18,11 +18,11 @@ export const team_ml = [
         id: "leader-2",
         img:"",
         title: "Shourya Agarwal, ML officer - Content",
-        content: "Shourya is a sophomore at Freedom and AET. He has worked on various computer vision projects through robotics and the Edge Impulse platform. He is alsoexperienced with arduino and electronics.",
+        content: "Shourya is a student at Freedom and AET. He has worked on various computer vision projects through robotics and the Edge Impulse platform. He is alsoexperienced with arduino and electronics.",
     },
     {
         id: "leader-3",
-        img:"",
+        img:"https://drive.google.com/uc?export=view&id=15GKby4nIaW9o-ZA_vCrHNFVmnyHNHJ6B",
         title: "Shlesh Sakpal, ML officer - Outreach",
         content: "Shlesh is a sophomore at Freedom. He has worked on various research at the intersection of artificial intelligence and black holes. He hopes to bring a successful learning experience to all students in ML Club",
     },
